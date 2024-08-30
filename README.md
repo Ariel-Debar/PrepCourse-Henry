@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio sobre prepcourse de Henry
+Mi primer reposiotiro de prueba en mi computadora
